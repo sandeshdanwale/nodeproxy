@@ -2,6 +2,15 @@
 
 Node proxy was developed so that front end and back end team do not have to depend or wait for each other. Node proxy also acts as a simple file server for feprocessor app. Please git clone them to the same directory.
 
+## Directory Layout
+
+```
+hackathon/
+  nodeproxy               --> git clone https://github.com/sandeshdanwale/nodeproxy.git
+  feprocessor             --> git clone https://github.com/sandeshdanwale/feprocessor.git
+
+```
+
 # Prerequisites
 Node - check nodejs site for installation instructions
 npm - node comes with npm
