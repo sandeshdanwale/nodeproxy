@@ -1,4 +1,4 @@
-# hackathon - nodeproxy
+# This is nodeproxy for hackathon
 
 Node proxy was developed so that front end and back end team do not have to depend or wait for each other. Node proxy also acts as a simple file server for feprocessor app. Please git clone them to the same directory.
 
